@@ -1,0 +1,33 @@
+#title{
+  color: white;
+}
+
+.nav{
+  background: black;
+}
+
+button{
+    color: whtie;
+  background: green;
+}
+#moreBtn{
+  color: whtie;
+background: blue;
+}
+.header{
+  background: lightgray;
+}
+#contents{
+  display: flex;
+}
+
+.box{
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  padding: 20px;
+}
+
+#footer{
+  color:black;
+}
